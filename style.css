@@ -77,5 +77,38 @@ header {
 }
 
 
+.container {
+    display: block;
+    color: #fff;
+    justify-content: center;
+    width: 732px;
+    height: 227px;
+    margin-left: 821px;
+    margin-top: 248px;
+}
 
+.sub-title {
+    color:#F5C90A;
+    font-weight: 700px;
+    font-size: 88px;
+    line-height: 73px;
+    margin-top: -50px;
+}
 
+.title {
+    font-weight: 700px;
+    font-size: 60px;
+    line-height: 73px;
+    display: flex;
+    text-align: center;
+}
+
+.under-text {
+    color: #ffff;
+    font-weight: 200px;
+    font-size: 60px;
+    display: flex;
+    margin-left: 821px;
+    margin-top: -57.27px;
+
+}
