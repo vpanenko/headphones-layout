@@ -112,3 +112,43 @@ header {
     margin-top: -57.27px;
 
 }
+
+#grad {
+    background: linear-gradient(106.65deg, rgba(255, 255, 255, 0.4) -2.73%, rgba(255, 255, 255, 0) 65.25%);
+    filter: drop-shadow(0px 4px 32px rgba(34, 34, 34, 0,24));
+    backdrop-filter: blur(6px);
+    border-radius: 64px;
+    position: absolute;
+    width: 1792px;
+    height: 360px;
+    left: 64px;
+    right: 64px;
+    top: 519px;
+    bottom: 201px;
+    margin-top: 88px;
+    border-radius: 64px;
+}
+
+.block-text {
+    color: #ffff;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 36px;
+    position: absolute;
+    width: 884px;
+    height: 273px;
+    left: 871px;
+    
+}
+
+.block-title {
+    width: 721px;
+    height: 44px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color:#ffffff;
+    margin-left: 757px;
+    background-color: transparent !important;
+
+}
